@@ -444,8 +444,11 @@ a{
         color: #000;
     }
     .text-question-faq{
-        font-size: 16px;
+        font-size: 17px;
         text-decoration: none !important;
+    }
+    .text-question-faq{
+        font-size: 15px;
     }
     .text-contact{
         font-size: 17px;
