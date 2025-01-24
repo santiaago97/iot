@@ -742,6 +742,10 @@ a{
     .item-menu-desk,.btn-menu-desk{
         font-size: 0.8vw;
     }
+    .text-about{
+        font-size: 1.2vw !important;
+        line-height: 1.4rem !important;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -944,6 +948,13 @@ a{
     }
     .btn-login,.btn-contact-menu{
         padding: 1.2rem 60px !important;
+    }
+    .img-about{
+        width: 85%;
+    }
+    .text-about{
+        font-size: 1.1vw !important;
+        line-height: 1.6rem !important;
     }
 }
 
