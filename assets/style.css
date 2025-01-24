@@ -60,7 +60,7 @@ a{
     font-size: 1.2rem;
 }
 .text-discover{
-    font-size: 20px;
+    font-size: 15px;
 }
 .text-about{
     font-size: 16px;
@@ -290,6 +290,7 @@ a{
     flex-shrink: 0;
     margin-top: -180px;
     padding: 78px 0 84px;
+    z-index: 0;
 }
 
 #about{
@@ -472,10 +473,10 @@ a{
     }
 
     .nav-item{
-        padding-inline: 10px;
+        padding-inline: 15px;
     }
     .item-menu-desk{
-        font-size: 1vw;
+        font-size: 0.8vw;
         text-align: center;
         cursor: pointer;
         white-space: nowrap;
@@ -486,7 +487,7 @@ a{
         font-family: "Lato";
         font-weight: 700;
         border-radius: 35px;
-        font-size: 1vw !important;
+        font-size: 0.8vw;
         white-space: nowrap;
         padding: 0.6rem 28px;
     }
@@ -732,7 +733,7 @@ a{
 
 @media (min-width: 1144px) {
     .item-menu-desk,.btn-menu-desk{
-        font-size: 1.2vw;
+        font-size: 0.8vw;
     }
 }
 
@@ -802,7 +803,7 @@ a{
     }
     .text-about{
         font-size: 1.1vw !important;
-        line-height: 1.3rem !important;
+        line-height: 1.48rem !important;
     }
     .text-footer{
         font-size: 16px !important;
@@ -818,7 +819,7 @@ a{
         max-width: 1920px;
     }
     .item-menu-desk,.btn-menu-desk{
-        font-size: 1.25em !important;
+        font-size: 0.8vw !important;
     }
     .btn-menu-desk{
         padding: 14px 30px !important;
@@ -932,7 +933,7 @@ a{
 }
 @media (min-width: 1652px) {
     .item-menu-desk,.btn-menu-desk{
-        font-size: 1.4em !important;
+        font-size: 0.8vw !important;
     }
     .btn-login,.btn-contact-menu{
         padding: 1.2rem 60px !important;
