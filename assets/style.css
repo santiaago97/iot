@@ -35,8 +35,8 @@ a{
     color: #888888;
 }
 .text-title-footer,.text-title-desk,.text-title{
-    font-size: 30px;
-    line-height: 40px;
+    font-size: 27px;
+    line-height: 33px;
 }
 .text-title-topic-benefits{
     font-size: 24px;
@@ -49,7 +49,7 @@ a{
     text-decoration: none !important;
 }
 .text-benefits,.text-content-info,.text-content{
-    font-size: 20px;
+    font-size: 16px;
 }
 .text-subtitle-info{
     font-size: 30px;
@@ -57,7 +57,7 @@ a{
 .text-link{
     text-decoration: underline;
     text-decoration-color: #fff;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 .text-discover{
     font-size: 20px;
@@ -134,7 +134,7 @@ a{
 .cta-home{
     color: #02AFEF !important;
     background-color: #FFF;
-    padding: 17.5px 39.5px;
+    padding: 15px 39.5px;
     border-radius: 44px;
     box-shadow: 0 3px 6px #dfdfdf;
     font-family: "Lato";
@@ -142,7 +142,7 @@ a{
     cursor: pointer;
     transition: all 0.5s;
     text-decoration: none !important;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .blue-risk{
