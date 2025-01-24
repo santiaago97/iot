@@ -454,7 +454,11 @@ a{
         font-size: 17px;
         text-decoration: none !important;
     }
-    .text-benefits,.text-about{
+    .text-benefits{
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .text-about{
         font-size: 15px;
         line-height: 17px;
     }
