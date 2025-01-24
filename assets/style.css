@@ -35,8 +35,8 @@ a{
     color: #888888;
 }
 .text-title-footer,.text-title-desk,.text-title{
-    font-size: 50px;
-    line-height: 60px;
+    font-size: 30px;
+    line-height: 40px;
 }
 .text-title-topic-benefits{
     font-size: 24px;
@@ -93,11 +93,11 @@ a{
     color: #A8CF46 !important;
 }
 .text-title-card{
-    font-size: 45px;
+    font-size: 25px;
     color: #000;
 }
 .text-content-card{
-    font-size: 22px;
+    font-size: 20px;
     color: #888;
 }
 .bg-blue{
