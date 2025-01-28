@@ -45,7 +45,7 @@ a{
     line-height: 33px;
 }
 .text-title-topic-benefits{
-    font-size: 15px;
+    font-size: 13px;
 }
 .text-subtitle-card{
     font-size: 23px;
@@ -270,7 +270,7 @@ a{
     background-color: #F2F2F2;
 }
 .text-content-actual{
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .carousel-indicators{
@@ -309,7 +309,6 @@ a{
 
 #faq{
     margin-top: 30px;
-    padding-bottom: 100px;
 }
 
 #faq .accordion{
@@ -333,7 +332,7 @@ a{
 
 
 #contact{
-    padding-top: 73px;
+    padding-top: 30px;
     padding-bottom: 100px;
     background-color: #F2F2F2;
 }
@@ -388,7 +387,7 @@ a{
 }
 
 .link-menu-mob{
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 400;
     color: #FFF !important;
     text-decoration: none !important;
@@ -397,9 +396,9 @@ a{
 .btn-menu-mob{
     text-decoration: none !important;
     font-family: "Lato";
-    font-size: 23px;
+    font-size: 17px;
     font-weight: 700;
-    width: 260px;
+    width: 200px;
     padding: 9.5px 0;
     border-radius: 35px;
     transition: all 0.5s;
@@ -656,6 +655,7 @@ a{
 
     #faq{
         margin-top: 60px;
+        padding-bottom: 100px;
     }
     
     .icon-contact-email{
@@ -668,6 +668,10 @@ a{
     }
     .space-adj-contact{
         margin-left: -60px !important;
+    }
+
+    #contact{
+        padding-top: 73px;
     }
 
     .bg-gdt-green-info{
