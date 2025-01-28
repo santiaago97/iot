@@ -388,7 +388,7 @@ a{
 }
 
 .link-menu-mob{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 400;
     color: #FFF !important;
     text-decoration: none !important;
@@ -397,10 +397,10 @@ a{
 .btn-menu-mob{
     text-decoration: none !important;
     font-family: "Lato";
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 700;
-    width: 352px;
-    padding: 12.5px 0;
+    width: 260px;
+    padding: 9.5px 0;
     border-radius: 35px;
     transition: all 0.5s;
 }
