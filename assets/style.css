@@ -17,11 +17,8 @@ a{
 .rounded-6{
     border-radius: 54px;
 }
-.rounded-start-6{
-    border-radius: 54px 0 0 16px;
-}
-.rounded-end-6{
-    border-radius: 0 54px 16px 0;
+.rounded-actual{
+    border-radius: 54px 54px 16px 16px;
 }
 
 .text-title-topic{
